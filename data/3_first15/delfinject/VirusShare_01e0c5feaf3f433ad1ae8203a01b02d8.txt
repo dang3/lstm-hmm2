@@ -1,0 +1,13 @@
+jmp
+cmp
+push
+jmp
+int
+pushf
+jmp
+int
+jmp
+int
+pusha
+push
+ret

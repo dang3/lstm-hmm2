@@ -1,0 +1,10 @@
+mov
+pushf
+pusha
+call
+pop
+sub
+cmpb
+jne
+push
+ret

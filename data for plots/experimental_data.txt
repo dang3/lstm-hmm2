@@ -1,0 +1,176 @@
+Model Without Embedding
+
+Number of Families to Classify: 5
+81.95
+84.08
+82.41
+85.14
+84.21
+Average: 83.56
+
+Number of Families to Classify: 10
+56.31
+56.81
+59.40
+61.50
+53.48
+Average: 57.50 
+
+Number of Families to Classify: 15
+49.27
+53.18
+54.82
+54.54
+44.31
+Average: 51.22
+
+Number of Families to Classify: 20
+53.83
+45.68
+52.92
+46.87
+53.08
+Average: 50.48
+
+**********************************************
+Model Without Embedding
+
+Number of Families to Classify: 5
+63.91
+48.44
+63.65
+42.94
+60.73
+Average: 55.73
+
+Number of Families to Classify: 10
+40.50
+36.96
+41.46
+43.75
+33.71
+Average: 39.28
+
+Number of Families to Classify: 15
+32.65
+35.56
+32.34
+35.06
+36.46
+Average: 34.47
+
+Number of Families to Classify: 20
+1. 34.25
+2. 27.74
+3. 30.42
+4. 30.45
+5. 29.88
+Average: 30.55
+
+**********************************************
+Model With Embedding
+
+Number of Families to Classify: 5
+76.09
+73.64
+73.17
+76.90
+73.51
+Average: 74.66
+
+Number of Families to Classify: 10
+54.46
+56.96
+55.67
+54.71
+52.90
+Average: 54.89
+
+Number of Families to Classify: 15
+54.28
+51.97
+50.28
+53.22
+57.03
+Average: 53.36
+
+Number of Families to Classify: 20
+51.11
+52.12
+51.60
+45.82
+47.65
+Average: 49.66
+
+**********************************************
+Bidirectional LSTM Model With Embedding
+
+Number of Families to Classify: 5
+89.47
+90.83
+89.95
+85.94
+92.12
+Average: 89.66
+
+Number of Families to Classify: 10
+79.58
+79.54
+78.13
+78.79
+80.46
+Average: 79.30
+
+Number of Families to Classify: 15
+76.13
+76.13
+76.66
+76.28
+72.31
+Average: 75.50
+
+Number of Families to Classify: 20
+73.71
+74.74
+69.53
+74.10
+74.72
+Average: 73.36
+
+**********************************************
+Bidirectional LSTM, Embedding and CNN 
+
+Number of Families to Classify: 5
+93.00
+96.33
+92.73
+94.70
+94.32
+Average: 94.32
+
+Number of Families to Classify: 10
+90.42
+90.29
+81.29
+89.58
+85.29
+Average: 87.38
+
+Number of Families to Classify: 15
+87.69
+87.56
+82.59
+87.31
+89.41
+Average: 86.91
+
+Number of Families to Classify: 20
+83.29
+76.34
+80.60
+82.18
+82.88
+Average: 81.06
+
+
+

@@ -1,1 +1,1 @@
-SJSU master thesis project
+# lstm-hmm2

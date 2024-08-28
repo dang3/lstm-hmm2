@@ -1,0 +1,12 @@
+push
+lea
+sub
+mov
+cmp
+push
+je
+test
+je
+add
+adc
+ret
